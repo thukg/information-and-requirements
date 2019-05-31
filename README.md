@@ -12,11 +12,11 @@
 
 #### MoocData ####
 
-[MoocData](moocdata.org) is a platform for providing online education data and competitions for researchers based on the MOOC site XuetangX of Tsinghua University. You can also find our publications related to the **MOOC** topics.
+[MoocData](http://moocdata.org) is a platform for providing online education data and competitions for researchers based on the MOOC site XuetangX of Tsinghua University. You can also find our publications related to the **MOOC** topics.
 
 #### MOOC KG ####
 
-[MOOC KG](moocdata.org/mooc_knowledge_graph) is a knowledge graph database organized according to the [China National Committee for Terms in Sciences and Technologies](http://www.cnctst.cn/)'s open terminology website [termonline](http://www.termonline.cn/index.htm), which contains a few hundred thousand concepts in Chinese with taxonomy information.
+[MOOC KG](http://moocdata.org/mooc_knowledge_graph) is a knowledge graph database organized according to the [China National Committee for Terms in Sciences and Technologies](http://www.cnctst.cn/)'s open terminology website [termonline](http://www.termonline.cn/index.htm), which contains a few hundred thousand concepts in Chinese with taxonomy information.
 
 ## Toolkit Format ##
 
