@@ -6,6 +6,10 @@
 
 ## Related Toolkits ##
 
+- [AMinerOpen](https://github.com/thukg/AMinerOpen)
+- [concept-expansion-kg](https://github.com/thukg/concept-expansion-kg)
+- [query-intent-classification](https://github.com/thukg/query-intent-classification)
+- [FastKATE](https://github.com/thukg/FastKATE)
 - [concept-expansion-snippet](https://github.com/thukg/concept-expansion-snippet)
 
 ## Related Resources ##
