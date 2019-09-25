@@ -4,11 +4,15 @@
 
 [THUKG](https://github.com/thukg) is the Knowledge Graph Research Group from [KEG](http://keg.cs.tsinghua.edu.cn/) at Tsinghua University. The repositories in this GitHub organization are mainly the toolkits related to the **Knowledge Graph** topics.
 
+[CogKG](https://cogkg.weebly.com/) gives more information about this toolkit collection.
+
 ## Related Toolkits ##
 
 - [AMinerOpen](https://github.com/thukg/AMinerOpen)
 - [concept-expansion-kg](https://github.com/thukg/concept-expansion-kg)
 - [query-intent-classification](https://github.com/thukg/query-intent-classification)
+- [query-entity-recognition](https://github.com/thukg/query-entity-recognition)
+- [term-extraction-en](https://github.com/thukg/term-extraction-en)
 - [FastKATE](https://github.com/thukg/FastKATE)
 - [concept-expansion-snippet](https://github.com/thukg/concept-expansion-snippet)
 
